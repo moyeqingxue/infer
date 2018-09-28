@@ -21,3 +21,7 @@ Infer is MIT-licensed.
 
 Note: Enabling Java support may require you to download and install 
 components licensed under the GPL.
+静态代码分析工具
+简介：
+Facebook 开源的静态代码分析工具，用于在发布移动 
+应用之前对代码进行分析，找出潜在的问题。
